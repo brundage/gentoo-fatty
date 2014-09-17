@@ -1,0 +1,3 @@
+net-p2p/rtorrent ~amd64
+net-libs/libtorrent ~amd64
+x11-misc/synergy ~amd64

@@ -1,0 +1,19 @@
+app-admin/sudo -ldap
+app-editors/vim -minimal
+app-editors/vim-core -minimal
+dev-db/sqlite secure-delete
+media-libs/libpng apng
+media-libs/mesa gbm
+media-video/vlc vlm
+net-p2p/rtorrent color daemon
+net-wireless/wpa_supplicant ap p2p qt4
+sys-apps/openrc -netifrc  # Becuase dhcpcd is doing it
+sys-auth/pambase -minimal
+sys-libs/zlib minizip
+www-client/firefox jit system-cairo system-icu system-jpeg system-sqlite
+www-client/links -X
+x11-apps/xdm consolekit
+x11-base/xorg-server -minimal udev
+x11-drivers/xf86-video-intel glamor uxa
+x11-misc/slim consolekit
+xfce-base/xfdesktop thunar
