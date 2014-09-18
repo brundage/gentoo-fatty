@@ -1,3 +1,11 @@
+app-admin/syslog-ng
 app-editors/vim
+app-laptop/laptop-mode-tools
 app-misc/screen
+app-portage/gentoolkit
+app-shells/zsh
+app-vim/gentoo-syntax
+app-vim/udev-syntax
 sys-apps/less
+sys-apps/pciutils
+sys-kernel/gentoo-sources
