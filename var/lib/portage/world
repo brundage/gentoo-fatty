@@ -25,6 +25,7 @@ sys-kernel/gentoo-sources
 sys-process/cronie
 virtual/ssh
 www-client/firefox
+www-plugins/adobe-flash
 x11-apps/mesa-progs
 x11-apps/xdm
 x11-apps/xrandr
