@@ -6,11 +6,15 @@ app-laptop/laptop-mode-tools
 app-misc/screen
 app-portage/gentoolkit
 app-shells/zsh
+app-text/zathura
+app-text/zathura-pdf-poppler
+app-text/zathura-ps
 app-vim/eruby-syntax
 app-vim/gentoo-syntax
 app-vim/udev-syntax
 media-video/vlc
 net-analyzer/nmap
+net-im/pidgin
 net-misc/dhcpcd
 net-misc/freerdp
 net-misc/x11-ssh-askpass
