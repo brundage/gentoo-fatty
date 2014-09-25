@@ -12,8 +12,11 @@ app-text/zathura-ps
 app-vim/eruby-syntax
 app-vim/gentoo-syntax
 app-vim/udev-syntax
+media-gfx/gimp
+media-gfx/xsane
 media-video/vlc
 net-analyzer/nmap
+net-dns/bind-tools
 net-im/pidgin
 net-misc/dhcpcd
 net-misc/freerdp
