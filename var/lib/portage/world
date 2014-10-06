@@ -15,10 +15,12 @@ app-vim/gentoo-syntax
 app-vim/udev-syntax
 media-gfx/gimp
 media-gfx/xsane
+media-libs/libpng:1.2 # for beersmith
 media-video/vlc
 net-analyzer/nmap
 net-dns/bind-tools
 net-im/pidgin
+net-libs/webkit-gtk  # For beersmith
 net-misc/dhcpcd
 net-misc/freerdp
 net-misc/telnet-bsd
