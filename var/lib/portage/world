@@ -13,6 +13,7 @@ app-text/zathura-ps
 app-vim/eruby-syntax
 app-vim/gentoo-syntax
 app-vim/udev-syntax
+dev-lang/go
 media-gfx/gimp
 media-gfx/xsane
 media-libs/libpng:1.2 # for beersmith
