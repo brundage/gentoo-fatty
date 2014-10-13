@@ -1,11 +1,13 @@
 app-admin/sudo
 app-admin/syslog-ng
 app-arch/unrar
+app-editors/beersmith
 app-editors/vim
 app-emulation/wine
 app-laptop/laptop-mode-tools
 app-misc/screen
 app-portage/gentoolkit
+app-portage/layman
 app-shells/zsh
 app-text/zathura
 app-text/zathura-pdf-poppler
@@ -16,17 +18,17 @@ app-vim/udev-syntax
 dev-lang/go
 media-gfx/gimp
 media-gfx/xsane
-media-libs/libpng:1.2 # for beersmith
 media-video/vlc
 net-analyzer/nmap
 net-dns/bind-tools
 net-im/pidgin
-net-libs/webkit-gtk  # For beersmith
 net-misc/dhcpcd
 net-misc/freerdp
 net-misc/telnet-bsd
+net-misc/whois
 net-misc/x11-ssh-askpass
 net-p2p/rtorrent
+net-print/cupswrapper-brother-hl2270dw
 net-print/foomatic-db
 net-wireless/wireless-tools
 net-wireless/wpa_supplicant
@@ -54,5 +56,6 @@ xfce-extra/xfce4-power-manager
 xfce-extra/xfce4-quicklauncher-plugin
 xfce-extra/xfce4-screenshooter
 xfce-extra/xfce4-sensors-plugin
+xfce-extra/xfce4-timer-plugin
 xfce-extra/xfce4-verve-plugin
 xfce-extra/xfce4-xkb-plugin

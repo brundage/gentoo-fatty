@@ -1,3 +1,5 @@
 net-p2p/rtorrent ~amd64
 net-libs/libtorrent ~amd64
 x11-misc/synergy ~amd64
+net-print/cupswrapper-brother-hl2270dw ~amd64
+net-print/lpdfilter-brother-hl2270dw ~amd64
