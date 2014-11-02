@@ -1,6 +1,8 @@
 app-admin/sudo
 app-admin/syslog-ng
 app-arch/unrar
+app-cdr/cdrtools
+app-cdr/xfburn
 app-editors/beersmith
 app-editors/vim
 app-emulation/wine
@@ -21,6 +23,7 @@ media-gfx/xsane
 media-gfx/xv
 media-video/vlc
 net-analyzer/nmap
+net-analyzer/upnpscan
 net-dns/bind-tools
 net-im/pidgin
 net-misc/dhcpcd
@@ -37,6 +40,8 @@ sys-apps/mlocate
 sys-apps/pciutils
 sys-apps/usbutils
 sys-boot/grub
+sys-boot/syslinux
+sys-fs/dosfstools
 sys-kernel/gentoo-sources
 sys-process/cronie
 virtual/ssh
