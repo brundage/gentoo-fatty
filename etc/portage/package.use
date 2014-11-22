@@ -10,7 +10,7 @@ net-wireless/wpa_supplicant ap p2p qt4
 sys-apps/openrc -netifrc  # Becuase dhcpcd is doing it
 sys-auth/pambase -minimal
 sys-libs/zlib minizip
-www-client/firefox jit system-cairo system-icu system-jpeg system-sqlite
+www-client/firefox -jit system-cairo system-icu system-jpeg system-sqlite
 www-client/links -X
 x11-apps/xdm consolekit
 x11-base/xorg-server -minimal udev
